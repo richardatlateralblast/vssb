@@ -3,7 +3,7 @@
 VSSB
 ====
 
-Visio Stencil Source B
+Visio Stencils - B
 
 Introduction
 ------------
